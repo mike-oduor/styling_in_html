@@ -1,0 +1,74 @@
+head{}
+body{
+    background-color: rgb(0,0,0);
+}
+header,
+nav,
+section,
+aside,
+footer{
+    background-color: rgb(255,255,255);
+}
+h1{
+    font-style: italic;
+    font-weight: 200;
+    color: black;
+    
+}
+h3{
+font-style: normal;
+font-size: larger;
+}
+p{
+font-style: normal;
+font-size: medium;
+text-align: left;
+
+}
+form{
+    font-size: larger;
+    font-style: calc();
+}
+section,header,nav
+{
+padding-top: 1.0rem;
+padding-right: 5.0rem;
+padding-bottom: 1.0rem;
+padding-left: 1.0rem;
+border-top: 1px solid blue;
+border-right: 1px solid blue;
+border-bottom: 1px solid blue;
+border-left: 1px solid blue;
+margin-top: ;
+margin-right: ;
+margin-bottom: ;
+margin-left: ;
+}
+footer{
+padding-top: 0.0rem;
+padding-right: 1.0rem;
+padding-bottom: 3.0rem;
+padding-left: 5.0rem;
+border-top: 1px solid blue;
+border-right: 1px solid blue;
+border-bottom: 1px solid blue;
+border-left: 1px solid blue;
+margin-top: ;
+margin-right: ;
+margin-bottom: ;
+margin-left: ;
+}
+header img{
+    float:;
+    margin-right:;
+}
+header{
+    position: relative;
+}
+.header img{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
